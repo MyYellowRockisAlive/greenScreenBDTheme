@@ -10,6 +10,14 @@
 
  @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
 
+div.wrapper_bd2abe.minimum_ebf000 {
+	height: 100%;
+	max-height: none;
+}
+
+.border_e782de.speaking__1dd69 {
+	box-shadow: inset 0 0 0 2px var(--status-speaking),inset 0 0 0 3px greenyellow
+}
 .container-ZMc96U {
     height: 0px;
     overflow: hidden;
