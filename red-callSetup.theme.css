@@ -10,46 +10,40 @@
 
  @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
 
- .root-22AK9z {
-	background-color: red;
+div.wrapper_bd2abe.minimum_ebf000 {
+	height: 100%;
+	max-height: none;
 }
 
+.border_e782de.speaking__1dd69 {
+	box-shadow: inset 0 0 0 2px var(--status-speaking),inset 0 0 0 3px red
+}
 .container-ZMc96U {
     height: 0px;
     overflow: hidden;
 }
 
-.quickSelectLabel-ArUyd9 {
-    color: transparent;
-}
-
-.quickSelectValue-rmtkbe{
-    color: transparent;
-}
-
-.quickSelectArrow-1dOOHb {
+.quickSelect_ae48d2 {
     height: 0px;
     overflow: hidden;
 }
 
-.bottomControls-31YuPK{
-    height: 0px;
-    overflow: hidden;
-}
-
-.topControls-23RE3h {
+.topControls_d202b0 {
     visibility: hidden;
 }
 
-.root-3J4La5 {
-    margin-bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
+.bottomControls__8bd89{
+    height: 0px;
+    overflow: hidden;
 }
 
-.root-3J4La5 {
+.root__3eef0 {
+    background-color: red;
     display: inline-flex;
     /* margin-left: auto; */
     justify-items: right;
     margin-top: 10px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
