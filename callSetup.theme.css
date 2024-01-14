@@ -10,7 +10,7 @@
 
  @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
 
- .root-22AK9z {
+ .callContainer_cbde45 {
 	background-color: greenyellow;
 }
 
@@ -19,35 +19,27 @@
     overflow: hidden;
 }
 
-.quickSelectLabel-ArUyd9 {
-    color: transparent;
-}
-
-.quickSelectValue-rmtkbe{
-    color: transparent;
-}
-
-.quickSelectArrow-1dOOHb {
+.quickSelect_ae48d2 {
     height: 0px;
     overflow: hidden;
 }
 
-.topControls-23RE3h {
+.topControls_d202b0 {
     visibility: hidden;
 }
 
-.bottomControls-31YuPK{
+.bottomControls__8bd89{
     height: 0px;
     overflow: hidden;
 }
 
-.root-3J4La5 {
+.root__3eef0 {
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
-.root-3J4La5 {
+.root__3eef0 {
     display: inline-flex;
     /* margin-left: auto; */
     justify-items: right;
